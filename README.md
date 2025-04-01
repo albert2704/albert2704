@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Viet from Viet Nam<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning website & mobile app development</p>
+<p align="left">I'm Viet from Viet Nam<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning website development</p>
 
 ###
 
