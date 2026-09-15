@@ -23,11 +23,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+  I'm a curious developer who enjoys turning ideas into useful things.<br><br>
+  🔭 Building, experimenting, and learning along the way<br>
+  📚 Exploring new technologies, one project at a time<br>
+  ⚡ Always up for a creative challenge or a good collaboration
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
