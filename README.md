@@ -27,10 +27,6 @@
 
 ###
 
-<p align="left">I'm Viet from Viet Nam<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning web & mobile app development</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
