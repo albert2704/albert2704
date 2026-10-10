@@ -1,65 +1,56 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi, I'm Việt 👋</h1>
 
-###
-
-<div align="center">
-<a href="https://facebook.com/albert2704" target="_blank" rel="noopener noreferrer">
-
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
-<a href="https://facebook.com/albert2704" target="_blank"  rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-</a>
-<a href="https://facebook.com/albert2704" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</a>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-  I'm a curious developer who enjoys turning ideas into useful things.<br><br>
-  🔭 Building, experimenting, and learning along the way<br>
-  📚 Exploring new technologies, one project at a time<br>
-  ⚡ Always up for a creative challenge or a good collaboration
+<p align="center">
+  <strong>Useful software, from the interface to the infrastructure.</strong><br>
+  Software engineer in Vietnam · Web & mobile apps · Tools for everyday life
 </p>
 
-###
+<p align="center">
+  <a href="https://github.com/albert2704">
+    <img src="https://img.shields.io/badge/GitHub-albert2704-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub: albert2704">
+  </a>
+  <a href="https://gethangul.com">
+    <img src="https://img.shields.io/badge/Hangul-gethangul.com-0F766E?style=flat-square" alt="Visit Hangul">
+  </a>
+  <a href="https://facebook.com/quocviet1204">
+    <img src="https://img.shields.io/badge/Facebook-quocviet1204-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook: quocviet1204">
+  </a>
+</p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+---
 
-###
+### A little about me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+I'm Việt, also known as **Albert** online. I enjoy turning everyday problems into software people can use, whether that's booking a stay, learning a language, or staying focused.
 
-###
+- **I build across the stack:** interfaces, APIs, databases, and the infrastructure that connects them.
+- **I care about the details:** clear design, reliable behavior, and workflows that make sense to the person using them.
+- **I learn by making things:** exploring AI, language learning, and desktop tools through hands-on projects.
+
+### Things I'm building
+
+| Project | What it's about | Built with |
+| :--- | :--- | :--- |
+| **Dewsta** | Guest booking and staff tools for an ecolodge, including room inventory and reservations. | Next.js · Spring Boot · PostgreSQL |
+| **[Hangul](https://gethangul.com)** | Helping Vietnamese speakers learn Korean with AI-assisted flashcards and spaced repetition. | Expo · React Native · Cloudflare |
+| **[Stint](https://github.com/albert2704/stint)** | A macOS Pomodoro app with a menu bar timer, focus music, and progress tracking. | Flutter · Dart · macOS integrations |
+| **Knowledge-graph chatbot** | An academic project exploring Vietnamese health information retrieval and answers with source citations. | Python · Flask · Neo4j · OpenAI |
+
+### My toolbox
+
+| Area | Languages & tools |
+| :--- | :--- |
+| **Web** | TypeScript · React · Next.js · Tailwind CSS |
+| **Mobile & desktop** | React Native · Expo · Flutter · Dart |
+| **Backend & data** | Java · Spring Boot · Python · Flask · PostgreSQL · Redis · Neo4j |
+| **Infrastructure & workflow** | AWS · Cloudflare · Docker · Nginx · Git · Vim |
+
+### Let's connect
+
+I'm always up for a conversation about useful apps, language learning, or a thoughtful collaboration. Find me on **[GitHub](https://github.com/albert2704)** or **[Facebook](https://facebook.com/quocviet1204)**.
+
+---
+
+<p align="center"><sub>A little progress, one contribution at a time.</sub></p>
 
 <img src="https://raw.githubusercontent.com/albert2704/albert2704/output/snake.svg" alt="Snake animation" />
-
-###
