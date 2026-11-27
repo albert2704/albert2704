@@ -1,37 +1,7 @@
-<picture>
-  <source media="(max-width: 900px)" srcset="./assets/profile-mobile.png">
-  <img src="./assets/profile-desktop.png" alt="Việt, also known as Albert (@albert2704). A words-as-pixels portrait and profiles of Dewsta, Stint, and Setwise.">
-</picture>
+<div><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-intro.png"><img src="./assets/profile/desktop-intro.png" alt="Việt, also known as Albert (@albert2704), a software engineer in Vietnam. I build full-stack apps and AI agents, from interfaces and APIs to databases and infrastructure. I care about clear design, reliable behavior, and workflows that make sense. Here are a few of my projects." width="100%" align="top"></picture></div>
 
-[Stint repository](https://github.com/albert2704/stint) · [Facebook](https://facebook.com/albert2704) · [Email](mailto:albert04.dev@gmail.com)
+<div><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-project-left.png"><img src="./assets/profile/desktop-project-left.png" alt="Dewsta, private. Ecolodge reservations and staff operations in one place. An AI guest support agent will answer questions, look up reservations, book stays, and check payment status across social channels." width="23.076923077%" align="top"></picture><a href="https://github.com/albert2704/stint"><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-stint.png"><img src="./assets/profile/desktop-stint.png" alt="Stint" width="42.051282051%" align="top"></picture></a><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-project-right.png"><img src="./assets/profile/desktop-project-right.png" alt="Setwise, private. Scan gym equipment to plan a workout, log sets, and track progress. The planned text and voice AI coach will use equipment scans to plan workouts, review lifting form and training metrics, and plan meals." width="34.871794872%" align="top"></picture></div>
 
-<details>
-<summary>Read the profile as text</summary>
+<div><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-project-details.png"><img src="./assets/profile/desktop-project-details.png" alt="Stint for macOS. Switch between Pomodoro and Flow, mix focus audio, block distracting apps and websites, and track weekly focus time." width="100%" align="top"></picture></div>
 
-I'm Việt, also known as Albert. I'm a software engineer in Vietnam.
-
-**I build** full-stack apps and AI agents, from interfaces and APIs to databases and infrastructure.
-
-**I care about** clear design, reliable behavior, and workflows that make sense. I learn by making practical software.
-
-## Projects
-
-### Dewsta
-
-Ecolodge reservations and staff operations in one place. A planned chatbot will answer guest questions, look up reservations, book stays, and check payment status across social channels.
-
-*Private project · Next.js · Spring Boot · PostgreSQL*
-
-### [Stint](https://github.com/albert2704/stint)
-
-Switch between Pomodoro and Flow on macOS, mix your own focus audio, block distractions, and track weekly focus time.
-
-*Flutter · Dart*
-
-### Setwise
-
-Scan gym equipment to build a workout, then log sets and track progress. The planned text and voice AI coach will use your scan to plan workouts, review lifting form and training metrics, and plan meals.
-
-*Private project · Expo · React Native*
-
-</details>
+<div><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-contact-left.png"><img src="./assets/profile/desktop-contact-left.png" alt="Get in touch" width="16.410256410%" align="top"></picture><a href="https://facebook.com/albert2704"><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-facebook.png"><img src="./assets/profile/desktop-facebook.png" alt="Facebook" width="6.666666667%" align="top"></picture></a><a href="mailto:albert04.dev@gmail.com"><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-email.png"><img src="./assets/profile/desktop-email.png" alt="Email" width="6.410256410%" align="top"></picture></a><picture><source media="(max-width: 900px)" srcset="./assets/profile/mobile-contact-right.png"><img src="./assets/profile/desktop-contact-right.png" alt="" width="70.512820513%" align="top"></picture></div>
