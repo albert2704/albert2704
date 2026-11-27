@@ -4,7 +4,7 @@
 
 **I care about** clear design, reliable behavior, and workflows that make sense. I learn by making practical software.
 
-Find me on [Facebook](https://facebook.com/albert2704).
+Get in touch via [Facebook](https://facebook.com/albert2704) or [email](mailto:albert04.dev@gmail.com).
 
 ## Projects
 
